@@ -26,6 +26,5 @@ An **entry-level opportunity** to apply my skills, grow professionally, and cont
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-199b7124a/)
-- [Portfolio](https://your-portfolio-link.com)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:sandeepkr7803@gmail.com)
 
