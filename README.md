@@ -1,30 +1,31 @@
 # Hi, I'm Sandeep Kumar 👋
 
-🎯 **Flutter & Data Science Enthusiast**  
-💻 **Tech Stack**: Flutter, Dart, Firebase, Python, C++, Power BI  
-📊 **Focus Areas**: Data Analysis, Machine Learning, Exploratory Data Analysis  
-📱 **Also Into**: Mobile App Development (Flutter)  
-👨‍💼 **Ex-Team Head @ Google Developer Student Clubs, 2023**
+🎯 **Data Engineer**  
+☁️ **Cloud**: Microsoft Azure  
+💻 **Tech Stack**: Python | SQL | PySpark | Apache Spark | Pandas | Azure Data Factory | Azure Databricks | Apache Airflow  
+📊 **Specializations**: ETL Pipelines | Data Engineering | Big Data Processing | Data Warehousing | Cloud Data Solutions
 
 ---
 
-A highly motivated and detail-oriented developer with a strong foundation in:
+## 👨‍💻 About Me
 
-- 📈 **Data Science & Analytics** using Python, NumPy, Pandas, Matplotlib, and Seaborn  
-- 🤖 **Machine Learning** and Exploratory Data Analysis  
-- 📱 **Mobile App Development** using Flutter & Firebase  
-- 📊 **Data Visualization & Business Intelligence** using Power BI
-
-I'm passionate about building apps and solving real-world problems through data-driven approaches. Always eager to learn and contribute to meaningful, impactful projects.
+My expertise lies in designing end-to-end ETL workflows, developing efficient data transformation pipelines, and delivering analytics-ready datasets using modern Data Engineering tools on Microsoft Azure.
+I enjoy solving complex data challenges by building reliable, scalable, and high-performance data solutions.
 
 ---
 
-### 🔍 Currently Seeking
-An **entry-level opportunity** to apply my skills, grow professionally, and contribute to data science or mobile app development teams.
+## 📌 Current Focus
+
+- Building scalable ETL Pipelines
+- Azure Data Engineering
+- PySpark Performance Optimization
+- Data Quality & Validation
+- Medallion Architecture (Bronze • Silver • Gold)
+- Batch Data Processing
 
 ---
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-199b7124a/)
-- [Email](mailto:sandeepkr7803@gmail.com)
+- [Email](mailto:sandeepkr3931@gmail.com)
 
